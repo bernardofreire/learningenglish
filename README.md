@@ -1,5 +1,5 @@
-# playermusic
+# Pagina principal aprenda inglês
 
-Projeto criado usando HTML, CSS E JAVASCRIPT. Criei uma página que toca uma música (criada por mim) que usam os comandos do javascript de pause e play.
+Projeto criado usando HTML, CSS E JAVASCRIPT simulando uma pagina principal de um curso de inglês.
 
-para verificar o projeto acessar : https://bernardofreire.github.io/playermusic/
+para verificar o projeto acessar :
